@@ -1,0 +1,15 @@
+[
+{
+  "modid": "everythingfalls",
+  "name": "Everything Falls",
+  "description": "Most blocks now have gravity",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
